@@ -1,0 +1,217 @@
+15/04/2023 11:57:09
+['The plus is awesome but Apple should have at least included 90Hz refresh rate. It would have improved the sales.', '\t116', "\t['Maybe they dont want the 14 Plus to sell 👀', '@TechInTheHouse true but maybe also it appeals to those who want a big iPhone with a non pro price.', '\\u200b@Janski Tech 900 dollars is a pro phone budget. in europe its price is like the iphone x which was the flaghship in his time.', '@Janski Tech I see your point. Some people certainly want a newly released iPhone with a big screen and big battery, but pricing definetely seems out of place this year. iPhone 12 Pro Max is the same size, has a better screen, iOS 16 and still top performance.', '\\u200b@Kyle True! Still my favourite iPhone. The last truly beautiful design made. The last one to bring a truly innovative feature.', '@Kyle very true but unfortunately from the iPhone x onwards, all phones prices increased absurdly. I also read that the A16 bionic costed Apple double that of the A15 to make due to it being on 4nM. Obviously, this extra expense has been passed on to the customers. What I mean is that the 14 plus has many from the iPhone 13 pro with extra features making it great but for the price it costs, a 90Hz panel would justify it a bit more.', 'I think those consumers in the know understand that the iPhone 15 design refresh is around the corner and are waiting. Apple also knows this, hence an iterate upgrade. Also, with a dire world economy, a strong dollar, a Euro war, COVID waves, and inflation, it is a sensible business decision to have a filler year. Save the BIG upgrades for when things are back to normal. Google did the same with the Pixel 7, the same Tensor chip. Even the Fold4 is a very subdued upgrade. I think techies do not look at the bigger picture and understand that releasing a significant upgrade in a world recession when no one has money is a daft business decision!!!', 'Maybe next year for the iPhone 15 plus', '@Noble True. The problem will be that they will use the feature to hike up the price dam it.', '@Janski Tech true', '@Janski Tech next year I will be upgrading to the 15 plus but if they don’t higher up the refresh rate I’m totally ok with that', '@Noble what iPhone do you have now?', '@123the prodigy I have the 13pm', '@TechInTheHouse And after 4-5 years they make SE+ :D', '@Noble You've got a good machine right there! 🙂. If I were you I woudn't downgrade to a plus version. Chances are you'll lose one lens and screen quality. Why not go for the 15 pro max?', '@TechInTheHouse yeah but I want to try something different', '\\u200b@Noble Have you considered android?😏The foldable business has been thriving lately', '@TechInTheHouse nah I’m an apple person lol', 'I can feel 14 plus gonna be iphone se 2023 😂', 'Yeah at least 90Hz would be cool even some mid -range phones have 90hz 🤔🤔', '@SuperFragilistic true', '@TechInTheHouse Speakers on the 12 pro max, and battery life are not that great.']"]
+
+['It amazes me the fact that despite having same os, same battery and a less energy consuming display this phone battery endurance is significantly worse compared to same size battery iPhone 13/14 max. Basically Apple has done this intentionally, there is no other reason.', '\t35', "\t['The Pros have ProMotion meaning that in many apps, they can dial the refresh rate below 60FPS, unlike the Max. So if the test favours that type of testing, then it is biased towards the Pros. Apple even has this on their website. But in web browsing, the Plus gets a better battery as it runs at 60Hz v 120Hz on the Pros.', 'Good point']"]
+
+['Love this phone 3 days of having and the battery last long ! I had the 11pro for 3 years it’s was all messed up and cracked so I had to get another phone ! I was going to get the pro max but they was out of stock I’m impatient and just wanted a fresh screen !', '\t3', "\t['👆👆🆙 ᴛʜᴀɴᴋs ғᴏʀ ᴡᴀᴛᴄʜɪɴɢ ʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ sᴇʟᴇᴄᴛᴇᴅ ᴀᴍᴏɴɢ ᴍʏ ʟᴜᴄᴋʏ ᴡɪɴɴᴇʀs ᴍᴇssᴀɢᴇ ᴍᴇ ᴏɴ teleɢʀᴀᴍ ᴀᴘᴘ ᴛᴏ ᴄʟᴀɪᴍ ʏᴏᴜʀ ᴘʀɪᴢᴇ.....']"]
+
+['This phone covers a niche audience where they want a vanilla 14 in a bigger form factor without the need for the Pro features. This is a better attempt than the Mini phones because more and more people prioritize battery life and bigger screens.', '\t51', "\t['Yes that's me', 'It could’ve been better with at least a 90Hz Screen. But again, the price probably denies my suggestion']"]
+
+['I have this phone and it’s a great great phone n the gen 8 watch has much more options paired with the 14 that the 13 don’t have n iOS 16 is strong', '\t7', '\t[]']
+
+['The iPhone 14 has improved audio out from the lightning socket for wired IEMs (I have lighting wired IEMs). Do you know if the iPhone 14 plus has the same improved audio out conaore to the iPhone 13?', '\t2', '\t[]']
+
+['Love it, love iPhones in general but I will never buy one until they finally put the darn USB Type-C on it. Every gadget I own uses the Type-C port. I can't keep a separate thing just for the phone. Frustrates me too much just the thought of it.', '\t1', "\t['The only android I’ve ever liked, was the Note 20 ultra. That phone was a magnificent beast. That was the only phone I ever left Apple for.']"]
+
+['The iPhone 14 Plus is even lighter than the iPhone XS Max! 🤯', '\t5', '\t[]']
+
+['It’s the exact same as the 13 pro max minus 1 camera and the 120hz screen. I would get which ever one is cheaper. I have the 14pro max. I shouldn’t have upgraded from the 13pro max not worth it. The 13pro max is a beast.', '\t9', "\t['Well, 14 Plus is 20% lighter than 13 Pro Max, got better selfie camera, way better sound quality, cinematic mode with 4K support, bluetoth 5.3 instead of 5.0 for new Airpods Pro a-a-and satellite ergency calls.I would argue that 13 Pro Max is a better buy for 120hz screen alone anyway.']"]
+
+['I have never bought pro models in my life but this time when i upgrade from xr, freaking apple forced me to get a pro model by not updating processor. Anyways personally I don't like pro because it's heavy in hand, some say it's good and premium feel but I just love how light regular Iphone 14 is compared to pro.', '\t0', "\t['The 14 plus looks good but here where I live it costs 1,300 dollars. So giving 1,300 dollars for a 60hz phone and not having a telephoto lans is not worth it. If it was like 900 dollars like in USA ok but giving 1,300 dollars for that is way too much.']"]
+
+['It's not a bad phone but paying literally flagship prices for a 60Hz display and last year's chipset is not wise. Go for the Pro Max if you want something big, whether 13 or 14', '\t55', "\t['It’s not for everyone not everyone wants the pro features or cares abt them', '@suupahype there is zero logical reason why anyone would want an objectively worse phone for the same money. Just buy the 13 pro, or save money with the base 13.', '@J Heads that isn’t always the case, my country has a heavy price multiplayer that heavily bumps up the price of imported electronics so new 13 pro max is significantly more expensive than a 14 plus, and most used phones aren’t very reliable where I live', '@Ammar XD exactly my case in asia. Iphone 13 PM is the same dam price as the 14PM... so the 14 Plus would be way way more affordable', 'Last year's chipset? That chipset been most qualified than other android based brands out there.', 'Sure let me just shell out another 200 dollars..', '120hz is a gimmick lets be honest', '@LionHart it’s really not, there’s budget Android phones that have 120 hz refresh rate and are half the price of this iPhone 14 plus, apple just chooses to cheap out on their base models to push people to buy the pro models instead', '@Lacosta 08 even so, 120hz is useless in a mobile device', '@Lacosta 08 It’s gimmicky IMO. Nobody in my circle talks about promotion when they upgrade or knows what it is aside from me 😂. They are just happily using whatever model they have. I can’t even tell the difference. Only two with iPhones have a pro, and everyone else continues to purchase base models despite whatever the pros offer.This is just like when everyone was crapping on the 11’s LCD screen and argued that even budget Samsungs have oled. I’ve had several phones with oled, including my 14 plus, yet I don’t notice what’s so special about it. I actually prefer LCD 🤷🏽\\u200d♀️. I mean the screen on my plus is beautiful, but I felt the same way about my 11.']"]
+
+['Basically if you want the 14 plus go with the 13 pro max,nearly same price plus 120 hertz and longer battery life (according to gsm arena basically) edit: forgot to mention also the 13 pro has a better wide angle might not make a difference in daylight but in night you can tell and plus telephoto and better optimized', '\t105', "\t['Exactly', 'Yes', 'No m', 'yes. only idiots will go for this over the 13 pm.', '@Tan The Man lol why', 'Not everybody needs the bells and whistles of a Pro model.', 'This phone is hitting a different market.', '@zee Not your money they’re spending watch your mouth.', 'Not everyone can do the 13 pro max especially since it a higher upfront cost at least for me and my carrier even more so than the 14 pro max', '@David Jacobs You get more for the same money. Even if you don't need it now, you may need it in the future.', '@greggski not everybody has the same needs.Let people make their own decision.', '@David Jacobs sure, but it's also nice to let people know they can get a better phone for the same price.', '@Darion Wilson found the idiot 🤣🤣', '@David Jacobs  Do you want a  3 room apartment for 900$ a month or a 4 room apartment of better build quality for 900$ per month?', '@Fa14bi - Go and spam somebody else! I am not even in America anyway so $ mean nothing to me.', 'Not in Indonesia (or other 3rd world countries probably). New iPhone's price never go down. The latest generation would only get more expensive.', '@zee No need to use the i word', '@David Jacobs  neither am I'm from America, I just used it because it's a known currency, if you don't understand the meaning of my comment, then i'm afraid you can't be helped.', 'The 14 plus is lighter than the 13, the 14 plus is cheaper to repair since the back is removable none of the pros do that.  But mainly for me on ATT. I got the 14 plus for 550$ and 55$ tax.  I got 350$ trade in for my iPhone 8.  They don’t do trade in for the 13.', 'But Apple discontinues last gen Pro models? Anyway it depends on where you live. In my country Pro models are too expensive even with discounts and only rich people who like to flaunt their wealth buy them. Non-pro models are quite common here.', '30 to 40k difference in india', '@zee And you are too idiot to judge that here in India there is 30 k difference bw Plus and pro so if I could go on that budget why wouldn't I would purchase 14 pro', 'I gave my daughter my 13 pro max and I got the 14 plus.  The 14 plus battery life is a little better plus it’s lighter. Could care less about cameras', 'And also the same chip', 'Dont forget that the 14 plus has Action mode, crash detection and satellite communication. Its also wayyy lighter. Its honestly up to your personal preference', 'Iphone 13 pro max is more expensive than the iphone 14 plus', 'It ain’t the same price, costs more for iPhone 13 Pro Max if financing which most people do. Plus apple have discontinued the 13 pro max so you can’t even get it from apple finance (0% apr)', 'I feel like it’s Americans who are making these comments since their view of the outside world is blurred but the 13pm costs more than the 14 plus, also I want to go on a bill plan, and if you didn’t know, the last pro models get removed on these plans in Ireland. So I have a choice of a 14 plus or 14 pro max and I don’t have 850€ deposit for the pro max so the 500€ on the 14 plus it is. I don’t have 1,250€ on the refurbished 13pm to spend and if I did, I wouldn’t cuz I like to pay it gradually.', 'The battery of the 13 is already a year old.', 'My country has 13 pro max and 14 pro max significantly more expensive than the 14 plus for some reason, and I got my 14 plus from a friends shop on a significant discount so it was the better deal', 'Well I happy with my iPhone 14 plus and cheaper installation plan than my old 12 pro max', '@Brown Sugar I upgraded from a xr because the battery was deteriorating and the phone was slow', 'But here to find 13 pro max?', '@zee so? not your money tho LMAO android boy', '@Marc Russel Galang i got a 12pm too. just not a blind fanboi like your lot 😂', 'Iphone 13 pro max not on official store anymore :(', 'this phone is also 36g lighter than the 13 pro max and looks better imo', '@JAKEDOWN999 dawg the camera and screen is literally better the weight difference will barely be noticably and it's literally just only 1 camera less they're the same design 💀']"]
+
+['Apple needs to offer at least 90hz for "budget" iphones', '\t7', '\t[]']
+
+['Amazing review, very eye-opening', '\t1', '\t[]']
+
+['Niceeeeeeee Review Sir! I don't know the feeling of having an iphone so watching your review amaze me! ☺️☺️☺️', '\t4', '\t[]']
+
+['Will looks like a deadlift machine 👍💪', '\t7', '\t[]']
+
+['The only reson i might b getting this is its cinematic mode that can do 4k 24fps.', '\t1', '\t[]']
+
+['In my country theres 400dollar difference between 14+ and 14pro max so yeah its even lighter..', '\t0', '\t[]']
+
+['I wanted the iPhone 13 Pro Max, but apple have discontinued it so I can’t finance it. And I don’t do locked sim contracts (more money) so it was just a better choice for me to get 14 plus financially as other places it’s more expensive that the plus. £48 a month for iPhone 14 plus, £52 a month for iPhone 13 Pro Max', '\t13', "\t['I know it kinda BS apple discontinued. It still plenty producation 13 pro max. Maybe they throw trash.', 'ThT crazy mine 33 a month for 14 plus in the us']"]
+
+['With a premium price only get a 60hz refresh rate. What a bummer', '\t0', '\t[]']
+
+['The conclusion is, it depends on your preference and usage. Why spend more on pro version if you doesn't use or need the feature ?', '\t9', "\t['Because even if you don’t use them, it’s much better to have them than paying almost the same price for a phone that is missing everything the pro models have', '@Lacosta 08 I respect your opinion. Like i said. It depends on your preference. There's people like me who doesn't want to spend more on something just because i want to have the feature that i will never use.', '@Lacosta 08  That’s not true IMO. Most who buy the 14 plus, buy it to have a regular 14 with a large screen. The pro max is $200 more than that, which is a lot extra for features that you won’t use or care about. I’ve wasted so much money on flagships but didn’t use them to their full potential. It is the same issue with paying for extra storage “just in case”, knowing that you’ve never come close to using your storage up. It’s a waste. Phones are expensive enough, and I’m tired of shoving out more money “just because”.', '@Lacosta 08 You do know that not every country has the same  price for a iphone the plus is 353 dollars cheaper then the pro in my country. Dynamic Island,  6,1 inch screen, A16 , better camera are not worth 353 dollars more for me.']"]
+
+['if only i could get my hands on modern technology for once 😢😢.my phone’s broken and i don’t think i can get a new one especially at this time.unless help comes from somewhere 😢😢😢', '\t3', "\t['What are you using to made this post on the internet? You are fine in my opinion.', 'What phone do you currently have?', 'lol']"]
+
+['I found this thing and it worked forreal i got one. Its in the name.. Real simple to do too!', '\t1', '\t[]']
+
+['6Ohz is not so good but IOS animations are buttery smooth.', '\t11', "\t['Can't really be said for Android phones with 120 Hz when their animations aren't that smooth.', 'iPhone SE4 might have 60hz', '@Sahara Johnson  The iPhone SE 2nd and 3rd gen are already 60 Hz.', '@Newecreator yes']"]
+
+['There are 2 things people should know in life. Number 1. Each year the newest iPhone pro model is the best iPhone in the family but it is not the best phone in the phone market. Number 2. The human body adjust itself automatically. This is something a lot of people don't understand. Is there better tech available in the tech world yes but it is a subjective yes. Your body once it has become used to a certain set of parameters will feel uncomfortable once it leave that set of parameters but it can adjust itself with time. What does that mean? It mean you can become used to higher refresh rate and higher resolution but if you go back to lower refresh rate or lower resolution it doesn't mean you won't be able to get used to it again. The body will just adjust itself to get used to a new set of parameters again. This is something marketing and businessmen won't tell you. You have to know these by yourself and then learn how to use and master a product fully. You can chase the best techs of course but you have to also understand it isn't necessary if you don't want it to be.', '\t26', '\t[]']
+
+['Tbh if you see someone with this and other vanilla variant, honestly you wouldn't know if they had this or the 13. This hasn't and will not get the wow factor', '\t7', "\t['I own a pink 13, i set its name as iphone 14 and tell everyone its a 14 and everybody believe me']"]
+
+['I don't think anybody in their right mind is going to  pay  $900 for this phone. I predict this is the first and the last year we'll see this model, if budget and value for money is the issue, try and find a 13 Promax new or get the    new Pixel.', '\t25', "\t['Agreed', 'Things actually goes differently dude, who knows it may have a respectable selling ratio than what we except.', 'I pay for it because I don’t use much phone 😊', 'Because of the light purple......', 'It’s a great phone. Glad I bought it. Couldn’t get the 13 pro max unlocked so I went with the 14 plus and I’m not sorry that I did. To each his own though.', 'It’s not for everyone I do agree it should have been priced lower though but not everybody cares about pro features']"]
+
+['i need to go for this because 13 pro max is out of stock at my place. :'(', '\t18', "\t['Don’t worry it’s a great phone. My screen looks better for some reason than on my 12. I love it. People are just negative.', '@Omar Ferguson same here']"]
+
+['I predict this is the first and the last year we'll see this model, if budget and value for money is the issue, try and find a 13 Promax new or get the    new Pixel.', '\t5', "\t['There’s a 15 plus in production. Apple dosent get rid of new ideas fast', '@Jayyli iPhone 5C, 12-13 Mini say hi 🥲', 'Unless it gets delayed']"]
+
+['Y’all goofy af in the comments lol. Everyone doesn’t want the same phone. For some people the 14 plus is a great choice.', '\t191', "\t['Yes William. Great battery life compared to the new 22 ultra I had for 6 months it was junk! Plus started heating up and shut off and on at times by itself', 'I like there’s a purple plus iPhone', 'Exactly, I could care less for the interactive island notch thingy. I have a iPhone X so it’ll be an upgrade for myself.', '@Alice in Acidland it is a great phone Alice did u get one?!', 'I’m trying to work out if its a good upgrade from an 11 pro max.', '@Just Chillin lol not yet. I’m getting a new phone for 🎄', '@UHDGamers 2015 it honestly depends on if your phone has problems', 'Exactly it’s what you want what you like.', '@Alice in Acidland awesome the 14 Plus?’', '@UHDGamers 2015 may you should get the 14 pro max', 'Absolutely.. from android oppo A52 to iPhone 14 plus 256gb .. great choice ..', 'Not everyone is getting this year iPhones a normal person keep their old iPhone longer or they upgrade to one of IPhone 15 series in 2023', 'Sadly iPhone 14 Plus production is cut  the demand is lower than iPhone 13 Mini', '@Cat Juice because nobody wants a phone that’s literally the same as last year’s model minus a few new features and a bigger screen for only $100 less than the much better pro model', '@Lacosta 08 Can’t find the Max or Pro, if you can it’s not with your carrier. I traded in my old iPhone, I only paid $300 for the 14 Plus. That’s not bad at all, it’s an awesome phone.', '@Cat Juice me and my nephew still have are iPhone 12 we going to upgrade too one of IPhone 15 series and my girl cousin still have her iPhone 11 most normal keep their old iPhone longer they don’t rush to the store too get a new iPhone that fast', '@Lacosta 08 a normal person most of the time they keep their old iPhone longer', 'I’ve got the iPhone 14 plus for Christmas in back and I can see myself having this phone for 5 years it’s an amazing phone the battery is so good and even better with the MagSafe portable apple power bank 😁😁', 'Yeah, but again, it’s a small portion of people. And I still want my Mini iPhone back, Timmy.', 'It's not goofy it's an opinion,if  your happy with mediocrity it's fine but don't complain that other people are not happy with that.']"]
+
+['How can you guys not bothered by the annoying notch?', '\t7', "\t['Honestly i just got a 13 and i never notice it unless i look for it', 'My feeling when i am an ex-android user', 'Lmao I never notice bezels or notches.']"]
+
+['The iPhone 14 plus is basically the same as a iPhone 13 Pro Max. Idk why Apple did this. If you want the true iPhone 14 experience go with the 14 pro or pro max. Better chipset, camera and dynamic island. The A16 is a monster. It’s undefeated and will be for years.', '\t2', "\t['What if you don’t like the dynamic Island? What if you don’t want the always on display killing your battery? I love the 14 plus I’m really liking it, only thing that makes me seriously angry about it is 60Hz. Even the standard iPhones should have at least 90Hz.', 'Uhm no, the 13 pro max is way better than 14 Plus. I own both phones and I love the 13 pro max more.']"]
+
+['We have an issue selling 14 plus 1260 Euro 💶 There are customers walking in the store look at the phone and as for 199 Euro price some had the value 99 Euro phones and they said : It's a child iPhone none like it none buy it .....They mostly buy 145 Euro Realmi Narzo 50a', '\t1', '\t[]']
+
+['iPhone 14 Plus is a gaming/media watching phone.', '\t16', "\t['60hz = NOT a gaming phone.', '@MrMrMrCaf not all games have 120hz. Generally games have 60hz native']"]
+
+['Before y’all bash this phone, try it out first, then be the judge and not go by what someone else say', '\t1', '\t[]']
+
+['is it dual sim?', '\t0', '\t[]']
+
+['The front camera has terrible auto focus problem. 6:27', '\t0', '\t[]']
+
+['best phone in 14 series', '\t11', "\t['Yea absolutely not. On paper and experience it’s literally not', 'If it was $700 starting price, maybe. But for $900, only $100 less than the 14 pro? Hell no, you’re better off getting a 13 pro max with that money instead']"]
+
+['I always wonder what's the title of that song in your speaker test.', '\t0', '\t[]']
+
+['Only Apple Knows What They Are Doing...', '\t4', "\t['only']"]
+
+['Budget had zero to do with my decision… the store had the 14 plus in stock and not the other.', '\t11', "\t['Which is why I picked up the plus— I didn’t have a month to wait for the pro version', 'Was gonna order the max for my daughter and wife for Christmas. They said it wouldn't be shipped out until the end of this month smh. So I went with the plus', 'That was exactly the same with me Shane! Was having issues with my previous phone overheating I just needed a phone ! The plus and the regular 14 all our Apple Store had n stock everything else sold out ! It’s a great phone. Mini computer whatever u want to call it lol 😂', 'Exactly why I got it. Cricket Wireless only has regular 14 and plus. Only having 60 Hz does bother me, other than that I love it.', 'I feel so represented']"]
+
+['Was showing us the motorbike guy who fell really necessary 😂', '\t0', '\t[]']
+
+['When is the Pixel 7 review coming?', '\t4', '\t[]']
+
+['only gsmarena that does proper battery tests', '\t1', '\t[]']
+
+['This phone may sell. Here me out if you pay for this threw bill crediting. Thier lowering the monthly cost to 5 bucks. Ofc you have to get an unlimited plan for it. Unlimited starts at 65 or 75 depending on carrier. But it works well. Plus when you add coverage that like 17 bucks. So monthly bill will come to 88 bucks.', '\t0', '\t[]']
+
+['This is a joke played intentionally by Apple so that the majority is forced to choose the Pro models. It would have been better if they had not released these models at all that have recycled parts from last year's phones.', '\t5', "\t['On point! 🎯', 'The reason why they used the A15 was that TSMC now charges $110 for the A16, which is 2.4X more than the A15, so $65 more for the A16. Apple would have had to raise prices even more, so sensible. Android OEMs face the same price increase with the upcoming SD8G2, so it will be interesting what they do. Although they are not US-based so do not have the issue with the strong dollar.']"]
+
+['Thank you to Review this phone it's good Camera', '\t6', '\t[]']
+
+['Still rocking my 12 pro max', '\t6', '\t[]']
+
+['0:08 I’m pretty sure if someone can afford the 14 Plus they can afford the 14 Pro Max too', '\t2', "\t['I think It's cheaper than 14 pro max', '@Esther Oyegad in the US it’s only $200 less than the 14 pro max. Sounds like a lot, but considering you’re already spending $900 (actually $1000 if you include tax and other accessories), you can easily save up $200 more for the 14 pro max, which is a much better phone in almost every way', 'Just because you can afford it doesn’t mean you want it']"]
+
+['Should people worry about software update? cause of last year chip', '\t0', '\t[]']
+
+['Basically it's a big iPhone 13', '\t1', "\t['But you're a spammer, stoopid ⬆️⬆️⬆️']"]
+
+['Waiting for the google pixel 7 series review 😬', '\t4', '\t[]']
+
+['Better this or 12pm?', '\t0', '\t[]']
+
+['iPhone 14 is $899? The pixel 7 pro is $899 lol. Which one is a better purchase?', '\t5', "\t['Depends on what you need in a phone', '@siddhant gahlot Nope. I mean which one is superior.', '@Phillip Perez Pixel 7 pro by a long shot', '@Luksutin I agree. I have a pixel 6. I'm just curious about which device has a better resale value, better customer support, etc. All we hear about are cameras and displays lol.', '@Phillip Perez if your going for a better resale value and customer care, I’d say go for Apple. When it comes to reselling iPhones tend to hold value over Samsung or Google. Like I had a Samsung 22+ 256. It lost $1000 in value compared to my iPhone that lost $300 in value']"]
+
+['Ip 14+ or ip 13 pro? Pls help me choose.', '\t0', "\t['What do you need more? The battery life or the extra telephoto camera? I personally would go with the 14 plus since the battery is great and I don’t need the optical zoom that much.', '@Football fan im more on heavy games and taking photos and videos', '@Em Alfaro the pro model has way better camera and the screen is 120hz, however the battery life is not good for such an expensive phone. You better go with the 14 plus']"]
+
+['Its really just a bigger version of the iPhone 13. The iPhone 13 plus.haha.lol. Because same everything even same A15 chip. Only difference is screen size. Why couldn't apple atleast give us the A16 chip and 9x zoom video?', '\t2', "\t['Having last year’s chipset wasn’t the problem; the problem was changing literally nothing from last year’s model and raising the starting price for the plus model, making it only $100 less than the 14 pro. If the 14 plus had a $700 starting price, than I’d say it’s a good deal']"]
+
+['I'm confused with all the different iphone 14 names. 😕', '\t3', '\t[]']
+
+['I actually prefer this to the 14 pro max', '\t11', "\t['60hz....', '\\u200b@Rémi REC and slower chipset', '@Heward the Diamond just 60 hz bro', 'Slower chipset, 60hz, same outdated notch design, aluminum build instead of stainless steel, and still uses outdated Lightning port (also true for the pro models), all for $900. Yeah no, this phone is worse than the 14 pro max in pretty much every way. If it was $700 starting price, I’d say it’s a good deal']"]
+
+['The battery life isn’t good? Whuuuut? 🧢', '\t0', '\t[]']
+
+['14, 14plus=Electronic waste. 14 pro 👍👍👍', '\t0', '\t[]']
+
+['Im happy with my 14 plus. Upgraded from the xr, i dont care about 120hz', '\t10', "\t['I’m happy also DA Human has the new s22 ultra for 6 months. The phone started heating up at times and shut itself off n on at times. Had to go back to IPhone and I like the 14 plus']"]
+
+['Apple fanboys will still buy this model. Thats why it was made', '\t1', "\t['It was made for people who wanted a bigger screen without breaking the bank… some of us will never utilize the features the Pro models have- and some of us simply don’t want or need them.', '@Jennifer Stewart this phone is $900 starting price, not even including the accessories you need. How is this model not breaking the bank?😂']"]
+
+['This fon doesn't make sense to me even I was shopping for a newer iPhone I would consider this one .i would consider 13 Pro max for the same money 💰', '\t0', '\t[]']
+
+['Dude i love the shirt 😳Where we can get it?', '\t4', "\t['Shirt i love the dude 😳How can we get it?', '@Rémi REC 🤣', 'Women's section']"]
+
+['I wanted to buy 14 plus but I got the 13 pro max … it’s so much better', '\t2', '\t[]']
+
+['🤩👍', '\t1', '\t[]']
+
+['why do you need 2 seperate videos for 14 and 14 plus? Ain't it the same, except the size- which means more battery only? Such a waste of time', '\t0', "\t['Next year iPhones might be more expensive than this year iPhones']"]
+
+['Larger phones are great but not iPhones and that's because of their aspect ratio. They're way too wide and really uncomfortable for one handed usage. I wish they made narrower phones. Until then, I'ma stick to my 6.1" iPhones.', '\t1', "\t['Ngl I like wider phones but I agree it'd be nicer if they made the aspect ratio a bit narrower for the general consumer', 'I have no problems using it one handed with a pop socket or ring holder.', '@MissPink2013 Well, I have had bad experience with such holders. They just break or come off suddenly while holding the device.Still, you should not be required to use such BS anyway.P.S some people like to use different cases with phones.', '@Ved Yeah I have had issues with generic holders breaking, but not the official Pop Socket brand. Those stay on until you take them off. I use them even when on my smaller 6.1” phones, to prevent dropping. Everyone has their own preferences though.']"]
+
+['😍', '\t1', '\t[]']
+
+['Nice 👍 from Pakistan', '\t1', '\t[]']
+
+['It has 512 gb storage so its okay for me', '\t3', '\t[]']
+
+['❤️', '\t1', '\t[]']
+
+['now do Goolge P 7 Vs Sam  A73 5G And iPhone 14.', '\t1', "\t['They don't stand a chance against the pixel 7']"]
+
+['Old A15 bionic High price 60HZ', '\t4', '\t[]']
+
+['I went from an iphone 12 to an iphone 14 plus, guess i should have just gotten an iphone 13 pro max judging from the comments', '\t3', '\t[]']
+
+['Apple fooling continues...', '\t0', '\t[]']
+
+['still iphone 14 pro much much better', '\t0', '\t[]']
+
+['13 Pro Max is much better than this one.', '\t0', '\t[]']
+
+['Wow never thought id find content lke this! 1:03', '\t0', '\t[]']
+
+['The heck is a vanilla model?', '\t0', "\t['The non-Pro models.']"]
+
+['records in 60 fps uploads 30fps video lol', '\t0', '\t[]']
+
+['In Iran the price are too ridiculous iPhone 14 is 35 billion ﷼ 14 plus is 45 billion ﷼14 pro is 62 billion ﷼14 pro max is 68 billion ﷼But the older 13 series is too expensive than 14 because they can registered but the newer models can’t because they’re don’t gonna buy iPhone from apple and bring it in Iran anymore 😂 it’s ridiculous because it’s just from apple in USA they don’t let people buy the new iPhones because it has sos satellite 😢 and 13 series price is iPhone 13 is 53 billion ﷼13 mini is 48 billion ﷼13 pro is 170 billion ﷼ 13 pro max is 210 billion ﷼ 😱You can buy a car with 210 billion ﷼ in Iran but it has same price as 13 pro max 😂 what can I do? Is it too funny that I live in Iran ? HELPME BRING ME TO HEEL Instead of Being in IRAN😢', '\t0', "\t['You can buy an iPhone in Iran after 4 or 5 years of working because the best salary for working in Iran is about 2 up to 50 billion ﷼ and iPhone price is 210 billion ﷼What should you do? Live like poor animal that have nothing to eat in Iran or kill your self to bring you to hell?', 'INFLATION IN IRAN IS HELL']"]
+
+['are you kidding me?, how would you notice the difference of 60hz and 120hz in just scrolling with small screen? lmao, you should play first person shooter with higher fps with fast phase movements or games that produce higher fps.. can your mobile phone with 120hz produce 120fps?, even 30hz will be smooth in just scrolling 😂', '\t0', '\t[]']
+
+['🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩👏🏻', '\t0', '\t[]']
+
+['Where is your pixel?', '\t1', '\t[]']
+
+['Tbh i miss angie💜', '\t10', "\t['me too 💔']"]
+
+['Get the 13promax instead', '\t0', '\t[]']
+
+['60hz is dead, I've been using 240hz monitor and 120hz phone for years so 60hz makes me sick', '\t0', '\t[]']
+
+['👍🏽227', '\t1', '\t[]']
+
+['BRING BACK    ----------------------->>>>>>>>>>>  "A N G I E " ***********', '\t0', '\t[]']
+
+['Why don't you get your own channel?', '\t0', "\t['Because he would not have access to review devices']"]
+
+['Or wait till iPhone 15', '\t2', "\t['Or 20', '@CosManCho That would be too much']"]
+
+['Wag mo kami lokohin ohma tokita', '\t0', '\t[]']
+
+['Nc', '\t0', '\t[]']
+
+['Just got my 14 Plus and I already regret it. My girlfriends 12 Pro Max runs better than it. I just upgraded from an IPhone XR and it literally just feels like a larger version of it. There is 0 fucking reason this phone shouldn’t have the same refresh rate.', '\t0', "\t['Why I’m just sticking with my iPhone 11 until the 15 models are released. Getting really tired of apple selling us crappy products for such high prices. Wanted to get the 14 pro or pro max, but I can’t find it anywhere, so I just gave up and didn’t even bother with the base 14 models', '@Lacosta 08 Wish I would’ve waited as well man. Mistakes were made.', 'Stop whining', '@KR stop commenting if you have nothing good to say']"]
+
+['Just buy an iphone 13', '\t0', '\t[]']
+
+['i am tired of them showing the same pictures in every phone review they do and doing the same song aswell. unsubcribed', '\t2', '\t[]']
+
+['1th 🤟', '\t0', '\t[]']
+
+['Always 2', '\t0', '\t[]']
+
+['Awful phone', '\t1', '\t[]']
+
+['Okay', '\t0', '\t[]']
+
+['First', '\t1', '\t[]']
+
+['For people who only want to buy an Iphone and nothing else It would be actually better to buy 13pro or 13 pro max over this crap', '\t3', '\t[]']
+
+['1st comment', '\t2', '\t[]']
+
+['6th', '\t0', '\t[]']
+
+['60hz for THAT price? Ew', '\t1', '\t[]']
+
+['Meanwhile.  I’m still too broke to have a battery replacement for my iPhone 8 Plus. 🥲', '\t1', '\t[]']
+
+['To be honest for it's price, it's a very bad phone', '\t0', "\t['They should sell it more cheaper', '@Nikki Cherry I do agree with you but the thing is for the price yes it’s expensive but you get a lot of quality', '@Denise Shephard nope, it should be $700 maximum for the starting price. For $900, you’re better off buying a 13 pro or pro max instead']"]
+
